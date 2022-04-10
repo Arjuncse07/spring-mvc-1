@@ -58,23 +58,10 @@ public class CustomerServiceImplTest {
 		customer.setAddress("NDLS");
 		
 		//when
-		when(customerDAO.saveCustomer(2)).
-		when(mo)
+		
 		
 		}
 		
 
-	
-	
-	@Test
-	public void deleteCustomer() {
-		
-		Integer theId=2;
-		
-		boolean isExistBeforeDelete = customerDAO.
-		
-	
-	
-	}
 
 }
